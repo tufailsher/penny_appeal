@@ -1,11 +1,9 @@
 import { Text, View } from "react-native";
 
-const Explore = () => {
+export default function RoundUp() {
   return (
     <View>
-      <Text></Text>
+      <Text>Round Up</Text>
     </View>
   );
-};
-
-export default Explore;
+}

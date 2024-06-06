@@ -1,11 +1,9 @@
 import { Text, View } from "react-native";
 
-const Explore = () => {
+export default function AutoDenote() {
   return (
     <View>
-      <Text></Text>
+      <Text>Auto Denote</Text>
     </View>
   );
-};
-
-export default Explore;
+}
